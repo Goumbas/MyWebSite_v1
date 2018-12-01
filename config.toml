@@ -1,3 +1,6 @@
-baseURL = "http://bastien-hubert.com/"
+baseURL = "Goumbas.github.io/MyWebSite_v1/"
 languageCode = "en-us"
-title = "My personal web site"
+title = "My personal website"
+theme = "uilite"
+publishDir = "docs"
+

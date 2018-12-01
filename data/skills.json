@@ -1,0 +1,9 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Node.js (express.js, restify)" : "65",
+		"Cypher" : "70",
+		"SQL" : "60",
+		"Angular" : "60"
+	}
+}

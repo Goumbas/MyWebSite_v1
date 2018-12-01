@@ -1,3 +1,3 @@
-# My personal web site
+# My personal website
 
-This is my first presentation web site. 
+This is my first presentation website, built with Hugo framework and UILite theme.

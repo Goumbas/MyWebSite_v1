@@ -1,0 +1,15 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "February 2018 - May 2018",
+			"company" : "Underside",
+			"description" : "Trainee web developer as part of my last year of an IT bachelor degree"
+		},
+		{
+			"timeperiod" : "August 2018 - Now",
+			"company" : "Adneom",
+			"description" : "Web developer specialized in JavaScript technologies in the web and mobile division of the company"
+		}
+	]
+}
