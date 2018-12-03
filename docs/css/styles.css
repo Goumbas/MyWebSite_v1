@@ -235,8 +235,8 @@ section.skin {
   background-color: #fdead2;
 }
 
-section.aqua {
-  background-color: #00fefe;
+section.salmon {
+  background-color: #ef965d;
   color: #000 !important;
 }
 
@@ -249,8 +249,8 @@ section.pink {
   background-color: #fff;
 }
 
-.progress .bg-blue {
-  background-color: #2e96a5;
+.progress .bg-salmon {
+  background-color: #b25c25;
 }
 
 .card {

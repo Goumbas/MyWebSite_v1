@@ -1,3 +1,3 @@
 # My personal website
 
-This is my first presentation website, built with Hugo framework and UILite theme.
+This is a simple presentation website, built with Hugo framework and UILite theme.
