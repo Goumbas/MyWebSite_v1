@@ -1,4 +1,4 @@
-baseURL = "https://goumbas.github.io/bastien_hubert/docs"
+baseURL = "https://goumbas.github.io/bastien_hubert/"
 languageCode = "en-us"
 title = "bastien-hubert"
 theme = "uilite"
