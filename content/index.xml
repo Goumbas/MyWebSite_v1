@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bastien-hubert</title>
-    <link>https://goumbas.github.io/bastien_hubert/</link>
+    <link>www.bastien-hubert.be/</link>
     <description>Recent content on bastien-hubert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://goumbas.github.io/bastien_hubert/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.bastien-hubert.be/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,5 +1,5 @@
-baseURL = "https://goumbas.github.io/bastien_hubert/"
+baseURL = "www.bastien-hubert.be"
 languageCode = "en-us"
 title = "bastien-hubert"
 theme = "uilite"
-publishDir = "docs"
+publishDir = "content"

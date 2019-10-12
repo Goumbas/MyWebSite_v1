@@ -1,10 +1,13 @@
 {
 	"title" : "Skills",
 	"skills" : {
-		"Node.js (express.js, restify)" : "75",
+		"Node.js" : "75",
 		"Cypher" : "70",
 		"React.js": "60",
 		"Angular" : "60",
-		"SQL" : "60"
+		"SQL" : "60",
+		"Git" : "70",
+		"Jira" : "65",
+		"Python" : "60"
 	}
 }
