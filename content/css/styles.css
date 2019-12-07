@@ -236,7 +236,7 @@ section.skin {
 }
 
 section.salmon {
-  background-color: #ef965d;
+  background-color: #ffba92;
   color: #000 !important;
 }
 
@@ -250,12 +250,16 @@ section.pink {
 }
 
 .progress .bg-salmon {
-  background-color: #b25c25;
+  background-color: #ff8a46;
 }
 
 .card {
   border-radius: 6px;
   border: none;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 #timeline {
