@@ -10,5 +10,15 @@
 	<atom:link href="www.bastien-hubert.be/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>www.bastien-hubert.be/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>www.bastien-hubert.be/</guid>
+      <description>Bastien Hubert  { &#34;@context&#34;: &#34;http://schema.org&#34;, &#34;@type&#34;: &#34;WebSite&#34;, &#34;url&#34;: &#34;www.bastien-hubert.be\/&#34;, &#34;name&#34;: &#34;bastien-hubert&#34;, &#34;author&#34;: { &#34;@type&#34;: &#34;Person&#34;, &#34;name&#34;: &#34;Bastien Hubert&#34; }, &#34;description&#34;: &#34;&#34; }   Hello world, i&amp;#39;m Bastien Hubert  A 24 years old web developer, based in Belgium
+     Contact   Skills Angular    Cypher    Git    Jira    Node.js    Python    React.</description>
+    </item>
+    
   </channel>
 </rss>
